@@ -17,6 +17,9 @@
 2. **啟動伺服器**：使用命令 `npm start` 啟動應用程序。
 3. **通過WebSocket連接**：WebSocket伺服器監聽與Express伺服器相同的端口。使用任何WebSocket客戶端開始實時通信。
 
+## 如何添加新事件
+若要詳細了解如何在此模板中整合和管理新事件，請參考[如何添加新事件指南](Tutorial/HowToAddEvents_ZH.md)。
+
 ## 貢獻
 
 隨時fork此項目，提交PR並進行改進。歡迎您的貢獻！

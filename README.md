@@ -17,6 +17,9 @@ This project provides a template for setting up a Node.js application with Expre
 2. **Starting the Server**: Use the command `npm start` to launch the application.
 3. **Connect via WebSocket**: The WebSocket server listens on the same port as the Express server. Connect using any WebSocket client to start real-time communication.
 
+## How to Add New Events
+For a detailed guide on how to integrate and manage new events in this template, refer to the [How to Add New Events Guide](Tutorial/HowToAddEvents_EN.md).
+
 ## Contribution
 
 Feel free to fork this project, submit PRs and make improvements. Your contributions are welcome!
