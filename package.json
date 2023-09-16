@@ -1,0 +1,14 @@
+{
+  "name": "websocket-express-template-nodejs",
+  "version": "1.0.0",
+  "description": "A template for setting up a Node.js application with Express and WebSockets.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "ws": "^8.14.1"
+  }
+}
